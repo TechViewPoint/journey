@@ -16,7 +16,7 @@
     "items": [
       [
         {
-          "imgUrl": "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg",
+          "itemId":"10000001",
           "title": "相框",
           "price": 5.6,
           "info": "这是一个好东西",
@@ -26,7 +26,7 @@
           ]
         },
         {
-          "imgUrl": "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg",
+          "itemId":"10000002",
           "title": "相框2",
           "price": 15.6,
           "info": "这是一个好东2西",
@@ -36,7 +36,7 @@
           ]
         },
         {
-          "imgUrl": "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg",
+          "itemId":"10000003",
           "title": "相框3",
           "price": 150.6,
           "info": "这是一个好东3西",
@@ -48,7 +48,7 @@
       ],
       [
         {
-          "imgUrl": "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg",
+          "itemId":"10000004",
           "title": "相框",
           "price": 5.6,
           "info": "这是一个好东西",
@@ -58,7 +58,7 @@
           ]
         },
         {
-          "imgUrl": "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg",
+          "itemId":"10000005",
           "title": "手机",
           "price": 5.6,
           "info": "这是一个好东西",
@@ -70,7 +70,7 @@
       ],
       [
         {
-          "imgUrl": "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg",
+          "itemId":"10000006",
           "title": "相框",
           "price": 5.6,
           "info": "这是一个好东西",
