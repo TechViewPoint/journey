@@ -1,7 +1,7 @@
 {
     "categories": [
       {
-        "name": "图书",
+        "name": "游戏周边",
         "key": "tab1"
       },
       {
@@ -17,9 +17,10 @@
       [
         {
           "itemId":"10000001",
-          "title": "相框",
-          "price": 5.6,
-          "info": "这是一个好东西",
+          "title": "皇室战争手工贴纸",
+          "price": 8.8,
+          "deliverPrice":10.00,
+          "info": "皇室战争贴纸，贴在任何地方都会很好看呢，喜欢的朋友快快入手吧！！！",
           "itemImgs": [
             "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg",
             "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg"
