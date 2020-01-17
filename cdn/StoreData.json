@@ -1,11 +1,11 @@
 {
     "categories": [
       {
-        "name": "游戏周边",
+        "name": "装饰生活",
         "key": "tab1"
       },
       {
-        "name": "居家装饰",
+        "name": "游戏素材",
         "key": "tab2"
       },
       {
@@ -27,61 +27,25 @@
             "https://techviewpoint.github.io/journey/cdn/images/10000001/10000001_2.jpg",
             "https://techviewpoint.github.io/journey/cdn/images/10000001/10000001_3.jpg"
           ]
-        },
-        {
-          "itemId":"10000002",
-          "title": "相框2",
-          "price": 15.6,
-          "info": "这是一个好东2西",
-          "itemImgs": [
-            "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg",
-            "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg"
-          ]
-        },
-        {
-          "itemId":"10000003",
-          "title": "相框3",
-          "price": 150.6,
-          "info": "这是一个好东3西",
-          "itemImgs": [
-            "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg",
-            "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg"
-          ]
         }
+        
       ],
       [
         {
           "itemId":"10000004",
-          "title": "相框",
-          "price": 5.6,
-          "info": "这是一个好东西",
+          "title": "荒野乱斗3D模型",
+          "price": 58.8,
+          "deliverPrice":0,
+          "info": "荒野乱斗3D模型，喜欢自己动手做游戏的同学可以考虑这款游戏素材，可用于动画渲染，支持Maya，unity3D",
           "itemImgs": [
-            "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg",
-            "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg"
-          ]
-        },
-        {
-          "itemId":"10000005",
-          "title": "手机",
-          "price": 5.6,
-          "info": "这是一个好东西",
-          "itemImgs": [
-            "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg",
-            "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg"
+            "https://techviewpoint.github.io/journey/cdn/images/10000004/10000004_0.jpg",
+            "https://techviewpoint.github.io/journey/cdn/images/10000004/10000004_1.jpg",
+            "https://techviewpoint.github.io/journey/cdn/images/10000004/10000004_2.jpg"
           ]
         }
       ],
       [
-        {
-          "itemId":"10000006",
-          "title": "相框",
-          "price": 5.6,
-          "info": "这是一个好东西",
-          "itemImgs": [
-            "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg",
-            "https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg"
-          ]
-        }
-        ]
+        
+      ]
     ]
   }
